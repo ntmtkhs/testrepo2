@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-It's a maerkadown file in this repository.
+It's a markadown file in this repository.
